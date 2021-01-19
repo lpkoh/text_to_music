@@ -2,9 +2,13 @@
 
 ## Sample songs
 [happy song](https://onlinesequencer.net/1302166)
+
 [sad song](https://onlinesequencer.net/1302165)
+
 [scary song](https://onlinesequencer.net/1302165)
+
 peaceful: [song1](https://onlinesequencer.net/1302968), [song2](https://onlinesequencer.net/1302969), [song3](https://onlinesequencer.net/1302167)
+
 Songs might sound kind of similar, and could be improved by training on a more diverse dataset!
 
 ## Prerequisites
